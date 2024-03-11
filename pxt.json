@@ -3,7 +3,11 @@
     "version": "0.0.0",
     "description": "",
     "dependencies": {
-        "core": "*"
+        "core": "*",
+        "v3": "*",
+        "jacdac": "github:microsoft/pxt-jacdac#v1.9.25",
+        "jacdac-servo": "github:microsoft/pxt-jacdac/servo#v1.9.25",
+        "jacdac-servo-server": "github:microsoft/pxt-jacdac/servo-server#v1.9.25"
     },
     "files": [
         "README.md",
@@ -21,5 +25,5 @@
     "supportedTargets": [
         "calliopemini"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
