@@ -21,9 +21,11 @@ angeschlossen werden benötigen nach dem Laden des normalen Jacdac-Pakets keine 
 
 ![... in Aktion](https://github.com/MKleinSB/pxt-calliserv-jacdac/raw/master/icon.png)
 
-## Calliserv Servoboard Unterlagen auf hackster
+![grafik](https://github.com/MKleinSB/pxt-calliserv-jacdac/assets/37311672/b1deb2e4-2027-449f-a352-57b307ee6740)
 
-[[https://www.hackster.io/calliope-mini](https://www.hackster.io/MKlein/callicolor-01cc4b)](https://www.hackster.io/MKlein/servoboard-fur-den-calliope-mini-6fb045)
+
+## Calliserv Servoboard Unterlagen auf hackster
+https://www.hackster.io/MKlein/servoboard-fur-den-calliope-mini-6fb045
 
 
 #### Metadaten (verwendet für Suche, Rendering)
