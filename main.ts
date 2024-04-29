@@ -12,8 +12,6 @@ namespace modules {
     export const CalliServ1 = new ServoClient("Calliserv1?dev=self&srvo=1&name=C17")
 
 }
-
-
 namespace servers {
     function start() {
         jacdac.productIdentifier = 0x3cc2d4b4
