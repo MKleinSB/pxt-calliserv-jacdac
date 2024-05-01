@@ -1,6 +1,6 @@
 {
     "name": "pxt-calliserv-jacdac",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "Jacdac for Servos at A1 C16/C17",
     "dependencies": {
         "core": "*",
